@@ -3,6 +3,8 @@
 # ebook2audiobook kaggle eddition
 Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
 
+# import this notebook to kaggle
+https://github.com/Rihcus/ebook2audiobookXTTS/blob/main/kaggle-ebook2audiobook-demo.ipynb
 
 ## Features
 
