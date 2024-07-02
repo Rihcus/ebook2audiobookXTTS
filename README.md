@@ -1,4 +1,4 @@
-# this is a sample for that may not be updated frequently
+# this is a sample for running on kaggle and it may not be updated frequently
 
 # ebook2audiobook kaggle eddition
 Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
